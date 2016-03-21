@@ -74,7 +74,7 @@ In the long run, building a self-sustainable non-profit organization will be a b
 
 The project strives to be a building block of the digital open science ecosystem, by collaborating with existing open initiatives and building on top of their work, and openly contributing data, source code, and content that is being created back into the ecosystem.
 
-The code will be made available on Github under the license of the existing project (LGPL v3). The visualizations will be released under CC-BY 4.0 - with the exception of the contained content, which of course retains its original license. The underlying knowledge structures can be exported in various open formats under CC0, so that they can be used in other open science tools such as Zotero and the Open Science Framework.
+The code will be made available on Github under the license of the existing project (LGPL v3). The visualizations will be released under CC BY 4.0 - with the exception of the contained content, which of course retains its original license. The underlying knowledge structures can be exported in various open formats under CC0, so that they can be used in other open science tools such as Zotero and the Open Science Framework.
 
 We will actively involve the community and seek feedback, input, and pointers for collaboration throughout the project. To achieve this, the project progress is openly shared with the world, starting with this proposal which is [hosted on Github](http://github.com/pkraker/shuttleworth-application). The development will also take place on Github. The concrete targets for developing the system will be published as issues in our repositories.
 
