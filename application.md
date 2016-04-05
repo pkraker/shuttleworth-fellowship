@@ -27,7 +27,10 @@ Knowledge maps are a powerful tool for the exploration of a research field. They
 
 By overlaying further connections between papers, e.g. references, we can see that a certain type of cardiovascular disease (A) is caused by a risk factor (B). We can also see that a certain drug (C) moderates this risk factor. While the connection between A and B and B and C is known, the connection between A and C may be unknown, because the discoveries were made in different communities - but the link can be easily inferred from the relationships shown on the map. Maps thus enable the discovery of new knowledge.
 
-![](km_example-2.png) ![](km_example-3.png)
+<p align="center">
+<img src="km_example-2.png">
+<img src="km_example-3.png">
+</p>
 
 #### 3) What has prevented this change from happening? 
 
