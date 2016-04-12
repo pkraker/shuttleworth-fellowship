@@ -11,7 +11,7 @@
 
 This is an issue for researchers, who spend a lot of time and effort on gaining and keeping an overview of scientific fields. But researchers have a community of peers that supports them in this task. People outside the scientific system, however - students, who would like to make sense of a new study subject, or citizens who would like to learn about the newest research on an illness - are usually without a network of peers and therefore often lost. This may mean that they can’t find information for the paper that they need to write; in the worst case, this may mean that they don’t find out about a lifesaving treatment in time.
 
-There is a huge demand for better exploration and discovery tools, inside and outside of academia, but there are no large-scale attempts to provide these tools this in an open manner. I am set to change that.
+There is a huge demand for better exploration and discovery tools, inside and outside of academia, but there are no large-scale attempts to provide these tools in an open manner. I am set to change that.
 
 
 #### 2) What change do you want to make in the world?
@@ -25,7 +25,7 @@ Knowledge maps are a powerful tool for the exploration of a research field. They
 <img src="km_example-1.png">
 </p>
 
-By overlaying further connections between papers, e.g. references, we can see that a certain type of cardiovascular disease (A) is caused by a risk factor (B). We can also see that a certain drug (C) moderates this risk factor. While the connection between A and B and B and C is known, the connection between A and C may be unknown, because the discoveries were made in different communities - but the link can be easily inferred from the relationships shown on the map. Maps thus enable the discovery of new knowledge.
+By overlaying further connections between papers, e.g. references, we can see that a certain type of cardiovascular disease (A) is caused by a risk factor (B). We can also see that a certain drug (C) moderates this risk factor. While the connection between A and B and B and C is known, the connection between A and C may be unknown, because the discoveries were made in different communities - but the link can be easily inferred from the relationships shown on the map. Maps are thus enabling the discovery of new knowledge.
 
 <p align="center">
 <img src="km_example-2.png">
