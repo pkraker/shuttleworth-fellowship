@@ -1,4 +1,4 @@
-##Open Knowledge Maps
+## Open Knowledge Maps
 
 *Peter Kraker*
 
