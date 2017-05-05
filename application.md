@@ -2,7 +2,7 @@
 
 **Peter Kraker**
 
-*Note: only 1500 characters per essay question*
+*Notes: only 1500 characters per essay question. For a version that can be directly annotated, please see https://docs.google.com/document/d/1cI_mskaepmvGQtuF8scyRGNCLhzHyKwC-IHA4BRiMrQ/edit*
 
 #### 1) Tell us about the world as you see it 
 *A description of the status quo and context in which you will be working*
