@@ -1,34 +1,38 @@
-## A new era of integrated science and society
+## Creating gateways into research
 
 **Peter Kraker**
 
-*Notes: only 1500 characters per essay question. For a version that can be directly annotated, please see https://docs.google.com/document/d/1cI_mskaepmvGQtuF8scyRGNCLhzHyKwC-IHA4BRiMrQ/edit*
+*Note: 1500 characters per essay question.*
 
 #### 1) Tell us about the world as you see it 
 *A description of the status quo and context in which you will be working*
 
-**We are faced with a serious crisis of trust in scientific research.** Public opinion polls show declining confidence in research. Anti-vaccination movements and climate change deniers are on the rise. In several areas such as genetically modified organisms (GMOs), only a minority of society trusts scientific findings.
+**We are faced with a serious crisis of trust in scientific research.** Public opinion polls show declining confidence in research. Anti-vaccination movements and climate change deniers are on the rise. In certain areas, only a minority of society believe in scientific facts.
 
 This is almost paradoxical, given the fact that research is still a respected profession, and there is elevated interest in science and technology. And more research is openly available than ever: we can now read well over 100 million research articles on the Web.
 
-At the same time, it is hard to keep up with research. Access does not equal discoverability or even understandability of research. Due to the speed of innovation, science and technology are perceived to be progressing too fast. In addition, scientific research usually does not allow for participation of outsiders. It is easy to contribute to a conspiracy theory: just enter the respective group online and start communicating. But with a scientific theory, things are not so simple.
+At the same time, it is hard to get an “in” on research. Access does not equal discoverability or even participation. Consider how easy it is to contribute to a conspiracy theory like “vaccines cause autism”: just enter the respective group online and start communicating. 
 
-People outside academia trying to understand a research field are therefore often lost. This is true for policy makers attempting to optimize decision-making by using evidence from relevant research, for educators striving to convey the state-of-the-art, for journalists trying to get an overview of a research area, or for patients who would like to learn about the newest findings on their illness.
+But with a scientific theory, things are not so simple.
+
+People outside academia trying to understand a research field are therefore often lost. This is true for policy makers attempting to optimize decision-making by using evidence from relevant research, for educators striving to convey the state-of-the-art, for fact checkers trying to verify statements, or for patients who would like to learn about the newest findings on their illness.
+
+Wouldn’t it be great, if we could get into research just as easily as we can get into any other topic?
 
 
 #### 2) What change do you want to make in the world?
 *A description of what you want to change about the status quo, in the world, your personal vision for this area*
 
-**I want to empower people inside and especially outside of academia - such as teachers, fact checkers, citizen scientists, learners, patients, practitioners, journalists, and others - by dramatically improving the discoverability of scientific knowledge.**
+**We need to create better gateways into research.** For every research topic, there are tens of thousands, maybe millions of articles. Trying to understand what's going on in a scientific area often boils down to manually checking dozens of articles. This is time that many people do not have, such as practitioners, policy makers, fact checkers, or a patient with a heart disease.
 
-For this to happen, we need to:
+I want to empower people inside and especially outside of academia by dramatically improving the discoverability of scientific knowledge. Because better discoverability means better policy, better practice, faster fact checks and less duplication in research.
 
-1. increase visibility of research findings. Getting an overview of a research field and being able to identify a set of relevant findings pertaining to one's information need are prerequisites for fact checking, evidence-based practice and self-directed learning alike.
-1. turn discovery into a collaborative process. At the moment, we are all approaching discovery on our own – and therefore repeat the same process over and over again. By sharing the results of our discoveries, we can guide each other through the literature.
+For this to happen, I want to work on two things:
 
-I propose to use knowledge maps, a powerful tool for exploration and discovery. Knowledge maps provide an instant overview of a field by showing the main areas of the field at a glance, and papers related to each area. This makes it possible to easily identify useful, pertinent information.
+(1) Increase visibility of research findings. Instead of lists, I propose to use knowledge maps, a powerful tool for exploration and discovery. Knowledge maps provide an instant overview of a field by showing the main areas of the field at a glance, and papers related to each area. This makes it possible to easily identify useful, pertinent information.
 
-Around these maps, I envision a space for participatory knowledge mapping where different individuals and communities come together; for example, researchers and medical librarians can collaboratively map the newest research on a certain disease and openly share result of their efforts for the benefit of evidence-based practice and patients affected by this disease.
+(2) Turn discovery into a collaborative process. At the moment, we are all approaching discovery on our own – and therefore repeat the same process over and over again. Take a rare disease as an example: wouldn't it be great, if researchers, doctors and patients would collaboratively map the newest research on this disease - and then share the results of their efforts for the benefit of patients, who don't have access to specialists?
+
 
 #### 3) What has prevented this change from happening? 
 
