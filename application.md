@@ -26,7 +26,7 @@ Wouldn’t it be great, if we could get into research just as easily as we can g
 
 **We need to create better gateways into research.** For every research topic, there are tens of thousands, maybe millions of articles. Trying to understand what's going on in a scientific area often boils down to manually checking dozens of articles. This is time that many people do not have, such as practitioners, policy makers, fact checkers, or a patient with a heart disease.
 
-**I want to empower people inside and especially outside of academia by dramatically improving the discoverability of scientific knowledge.* Because better discoverability means better policy, better practice, faster fact checks and less duplication in research.
+**I want to empower people inside and especially outside of academia by dramatically improving the discoverability of scientific knowledge.** Because better discoverability means better policy, better practice, faster fact checks and less duplication in research.
 
 For this to happen, I want to work on two things:
 
