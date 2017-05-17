@@ -3,7 +3,7 @@
 **Peter Kraker**
 
 *Note: 1500 characters per essay question.*
-*Acknowledgements: I'd like to thank Maxi Schramm, Christopher Kittel, Florian Heigl, Rufus Pollock, Antica Culina and Daniel Mietchen for comments on the draft. I'd like to thank the Open Knowledge Maps team, our advisors and users. I am very lucky to shape this vision together with you.* 
+*Acknowledgements: I'd like to thank Maxi Schramm, Christopher Kittel, Florian Heigl, Rufus Pollock, Antica Culina and Daniel Mietchen for comments on the draft. I'd like to thank the Open Knowledge Maps team, our advisors, partners and users. I am very lucky to shape this vision together with you.* 
 
 #### 1) Tell us about the world as you see it 
 *A description of the status quo and context in which you will be working*
